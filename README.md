@@ -1,5 +1,5 @@
-![Mahesh Bhanushali](https://media-exp1.licdn.com/dms/image/C4E16AQG7_eE9HXEfEQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=6DHZ6ept8oNDleOEXSTtIHG2wOnJrluLA528Mtyv7J0)
-### Hi there 👋
+![Mahesh Bhanushali](https://i.redd.it/ad27atzy1zxz.gif)
+
 
 <!--
 **bhanushalimahesh3/bhanushalimahesh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
