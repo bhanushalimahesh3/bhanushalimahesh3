@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bhanushalimahesh3/](https://www.linkedin.com/in/bhanushalimahesh3/)
 
-- 📝 I occasionally write articles on [https://medium.com/@bhanushali.mahesh3](https://medium.com/@bhanushali.mahesh3)
+- 📝 I occasionally write articles on [https://medium.com/@bhanushali.mahesh3](https://medium.com/@bhanushalimahesh3)
 
 - 💬 Ask me about **PHP, Laravel, HTML, CSS, JavaScript, React, MySQL, JQuery**
 
