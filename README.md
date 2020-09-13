@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh Bhanushali</h1>
-<h3 align="center">Full Stack Web Developer <a href="https://twitter.com/Atulsia">@Atulsia</a>| Core Member <a href="https://twitter.com/laravelMumbai">@laravelMumbai</a>| Author <a href="https://twitter.com/ZeroEqualsFalse">@ZeroEqualsFalse</a></h3>
+<h3 align="center">Full Stack Web Developer <a href="https://twitter.com/Atulsia">@Atulsia</a> | Core Member <a href="https://twitter.com/laravelMumbai">@laravelMumbai</a> | Author <a href="https://twitter.com/ZeroEqualsFalse">@ZeroEqualsFalse</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanushalimahesh3" alt="bhanushalimahesh3" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **How to turn complex, simple task into more simpler**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bhanushalimahesh3/](https://www.linkedin.com/in/bhanushalimahesh3/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/bhanushalimahesh3/)
 
-- 📝 I occasionally write articles on [https://medium.com/@bhanushalimahesh3](https://medium.com/@bhanushalimahesh3)
+- 📝 I occasionally write articles on [Medium](https://medium.com/@bhanushalimahesh3)
 
 - 💬 Ask me about **PHP, Laravel, HTML, CSS, JavaScript, React, MySQL, JQuery, Apache**
 
