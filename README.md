@@ -1,4 +1,4 @@
-![](https://github.com/bhanushalimahesh3/bhanushalimahesh3/blob/master/laravel_meetup.jpg)
+![](https://github.com/bhanushalimahesh3/bhanushalimahesh3/blob/master/laravel_meetup_crop.jpg)
 
 <h1 align="center">Hi 👋, I'm Mahesh Bhanushali</h1>
 <h3 align="center">Full Stack Web Developer <a href="https://twitter.com/Atulsia">@Atulsia</a> | Core Member <a href="https://twitter.com/laravelMumbai">@laravelMumbai</a> | Author <a href="https://twitter.com/ZeroEqualsFalse">@ZeroEqualsFalse</a></h3>
