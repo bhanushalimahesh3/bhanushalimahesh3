@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh Bhanushali</h1>
-<h3 align="center">Full Stack Web Developer [@Atulsia](https://twitter.com/Atulsia) | Core Member [@laravelMumbai](https://twitter.com/laravelMumbai) | Author [@ZeroEqualsFalse](https://twitter.com/ZeroEqualsFalse)</h3>
+<h3 align="center">Full Stack Web Developer <a href="https://twitter.com/Atulsia">@Atulsia</a>| Core Member [@laravelMumbai](https://twitter.com/laravelMumbai) | Author [@ZeroEqualsFalse](https://twitter.com/ZeroEqualsFalse)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanushalimahesh3" alt="bhanushalimahesh3" /> </p>
 
