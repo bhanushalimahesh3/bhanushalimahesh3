@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **How to turn complex, simple task into more simpler**
 
-- :microphone: Delivered Talk on Laravel Mix at [Laravel Mumbai Meetup](https://twitter.com/laravelMumbai/status/1131425446397136896)
+- :microphone: Delivered talk on Laravel Mix at [Laravel Mumbai Meetup](https://twitter.com/laravelMumbai/status/1131425446397136896)
 
 - :star: Nodejs article got featured on [ZeroEqualsFalse](https://twitter.com/ZeroEqualsFalse/status/1286984877003247617)
 
