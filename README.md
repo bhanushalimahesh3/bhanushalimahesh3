@@ -17,7 +17,7 @@
 
 - 📝 I occasionally write articles on [Medium](https://medium.com/@bhanushalimahesh3)
 
-- 💬 Ask me about **PHP, Laravel, HTML, CSS, JavaScript, React, MySQL, JQuery, Apache**
+- 💬 Ask me about **PHP, Laravel, HTML, CSS, JavaScript, React, MySQL, JQuery, Apache, Python, Django, Nginx, Nodejs, Postgresql **
 
 - 📫 How to reach me **bhanushali.mahesh3@gmail.com**
 
